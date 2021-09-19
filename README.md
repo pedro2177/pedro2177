@@ -1,6 +1,6 @@
-### Oie devs 👋
+### Olá visitante.
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Estudo ADS estou atualmente trabalhando com Java e aprendendo o mesmo! Assim como seus framework's.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
