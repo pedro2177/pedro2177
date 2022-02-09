@@ -6,13 +6,12 @@ Estudo ADS estou atualmente trabalhando com Java e aprendendo o mesmo! Assim com
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```kotlin
-object **PEDRO** {
- val name = "Pedro Henrique Rodrigues"
- val acknowledgements = "Desenvolvedor Java Back-End Júnior"
+```java
+public class PEDRO {
+ private String name = "Pedro Henrique Rodrigues";
+ private String profissaoDesejada = "Desenvolvedor Java Back-End Júnior";
  
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Hibernate (Framework)", "HTML5", "CSS3") 
+ private List<String> languages = ("Java", "Hibernate (Framework)", "SpringBoot", "SpringData","Spring); 
 
 }
 ```
